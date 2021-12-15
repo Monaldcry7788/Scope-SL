@@ -1,0 +1,74 @@
+Index: .idea/.idea.Scope/.idea/indexLayout.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.Scope/.idea/indexLayout.xml b/.idea/.idea.Scope/.idea/indexLayout.xml
+new file mode 100644
+--- /dev/null	(date 1639604285139)
++++ b/.idea/.idea.Scope/.idea/indexLayout.xml	(date 1639604285139)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="UserContentModel">
++    <attachedFolders />
++    <explicitIncludes />
++    <explicitExcludes />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.idea.Scope/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.Scope/.idea/vcs.xml b/.idea/.idea.Scope/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1639604285159)
++++ b/.idea/.idea.Scope/.idea/vcs.xml	(date 1639604285159)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.idea.Scope/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.Scope/.idea/.gitignore b/.idea/.idea.Scope/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1639604303108)
++++ b/.idea/.idea.Scope/.idea/.gitignore	(date 1639604303108)
+@@ -0,0 +1,13 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Rider ignored files
++/.idea.Scope.iml
++/contentModel.xml
++/modules.xml
++/projectSettingsUpdater.xml
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: .idea/.idea.Scope/.idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.Scope/.idea/encodings.xml b/.idea/.idea.Scope/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1639604269795)
++++ b/.idea/.idea.Scope/.idea/encodings.xml	(date 1639604269795)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
++</project>
+\ No newline at end of file
